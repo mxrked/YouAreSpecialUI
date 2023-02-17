@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/L/idiot_savant.png</file>
+  </qresource>
+</RCC>

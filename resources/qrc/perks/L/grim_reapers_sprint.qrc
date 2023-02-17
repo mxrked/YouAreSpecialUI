@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/L/grim_reapers_sprint.png</file>
+  </qresource>
+</RCC>

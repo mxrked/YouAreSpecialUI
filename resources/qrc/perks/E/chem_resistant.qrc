@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/E/chem_resistant.png</file>
+  </qresource>
+</RCC>

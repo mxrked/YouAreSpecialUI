@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/P/demolition_expert.png</file>
+  </qresource>
+</RCC>

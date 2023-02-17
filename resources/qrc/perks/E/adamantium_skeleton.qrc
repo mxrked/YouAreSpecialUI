@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/E/adamantium_skeleton.png</file>
+  </qresource>
+</RCC>

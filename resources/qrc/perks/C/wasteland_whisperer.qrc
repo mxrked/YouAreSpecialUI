@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/C/wasteland_whisperer.png</file>
+  </qresource>
+</RCC>

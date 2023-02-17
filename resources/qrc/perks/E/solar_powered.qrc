@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/E/solar_powered.png</file>
+  </qresource>
+</RCC>

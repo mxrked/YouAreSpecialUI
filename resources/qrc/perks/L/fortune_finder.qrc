@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/L/fortune_finder.png</file>
+  </qresource>
+</RCC>

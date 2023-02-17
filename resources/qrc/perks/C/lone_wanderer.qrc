@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/C/lone_wanderer.png</file>
+  </qresource>
+</RCC>

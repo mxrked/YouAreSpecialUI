@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../imgs/perks/L/ricochet.png</file>
+  </qresource>
+</RCC>
